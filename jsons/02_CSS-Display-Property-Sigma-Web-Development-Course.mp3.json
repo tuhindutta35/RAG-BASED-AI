@@ -1,0 +1,2385 @@
+{
+  "chunks": [
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 0.0,
+      "end": 5.5,
+      "text": " If you remember, we saw in HTML that there are some inline elements and some block elements."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 5.5,
+      "end": 9.200000000000001,
+      "text": " There we talked that we can change this property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 9.200000000000001,
+      "end": 15.0,
+      "text": " In today's video, I will tell you how to change the display property with the help of CSS."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 15.0,
+      "end": 17.5,
+      "text": " And what is the display property in CSS?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 17.5,
+      "end": 20.8,
+      "text": " There are some default values of the elements, how to change them?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 20.8,
+      "end": 25.3,
+      "text": " And what kind of changes we will get to see in their appearance by changing?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 25.3,
+      "end": 28.8,
+      "text": " What is inline, what is inline block, what is flex?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 28.8,
+      "end": 31.8,
+      "text": " I am going to tell you all these things in this video."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 31.8,
+      "end": 33.0,
+      "text": " Let's go to the computer screen."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 33.0,
+      "end": 35.0,
+      "text": " Do write sigma batch op in the comment."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 35.0,
+      "end": 37.0,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 45.0,
+      "end": 48.5,
+      "text": " So guys, I have come to my computer screen and today we will talk about the display property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 48.5,
+      "end": 50.0,
+      "text": " It is a very important property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 50.2,
+      "end": 56.2,
+      "text": " I had already told you in the tutorial of HTML that there are some inline elements and some block elements."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 56.2,
+      "end": 58.7,
+      "text": " Now I will tell you some more things here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 58.7,
+      "end": 62.7,
+      "text": " There will be some openings in this video about inline and block property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 62.7,
+      "end": 64.7,
+      "text": " And you guys think about anything else."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 64.7,
+      "end": 67.7,
+      "text": " Now what I will do here is quickly make a folder."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 67.7,
+      "end": 69.7,
+      "text": " I will put it in the name of video 23."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 69.7,
+      "end": 73.7,
+      "text": " And after video 23, I will click on the shift right and open with code."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 73.7,
+      "end": 79.2,
+      "text": " And after opening with code, index.html, by putting your exclamation mark."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 79.4,
+      "end": 82.4,
+      "text": " And here I will write in place of document."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 82.4,
+      "end": 85.4,
+      "text": " CSS display property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 85.4,
+      "end": 89.4,
+      "text": " And if you say, I will also turn on the screencast mode here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 89.4,
+      "end": 93.4,
+      "text": " So here we have to see about the display property of CSS."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 93.4,
+      "end": 94.9,
+      "text": " I will make a style tag here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 94.9,
+      "end": 97.4,
+      "text": " And as I told you guys already."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 97.4,
+      "end": 101.4,
+      "text": " That there are some elements that are our inline elements."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 101.4,
+      "end": 104.4,
+      "text": " Like if I make a div here, I write I am a box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 104.4,
+      "end": 106.4,
+      "text": " And after that I will preview it and show it to you."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 106.60000000000001,
+      "end": 108.60000000000001,
+      "text": " So you will say, yes, I know, I am a box display will be done."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 108.60000000000001,
+      "end": 110.60000000000001,
+      "text": " Nothing new in that."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 110.60000000000001,
+      "end": 112.60000000000001,
+      "text": " But if I tell you guys."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 112.60000000000001,
+      "end": 116.60000000000001,
+      "text": " That actually you can convert it into an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 116.60000000000001,
+      "end": 118.60000000000001,
+      "text": " And this div will also be there."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 118.60000000000001,
+      "end": 120.10000000000001,
+      "text": " What does that even mean?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 120.10000000000001,
+      "end": 121.60000000000001,
+      "text": " Let's do one thing here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 121.60000000000001,
+      "end": 123.60000000000001,
+      "text": " I do class=\"box\"."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 123.60000000000001,
+      "end": 126.60000000000001,
+      "text": " And here I put a CSS."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 126.60000000000001,
+      "end": 128.6,
+      "text": " .box"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 128.6,
+      "end": 130.6,
+      "text": " Now I give you a pro tip here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 130.6,
+      "end": 135.6,
+      "text": " Many people are worried that we should indent our code."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 135.79999999999998,
+      "end": 137.79999999999998,
+      "text": " I will say when you are coding, then write it completely rough."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 137.79999999999998,
+      "end": 139.79999999999998,
+      "text": " Indent in the opposite place."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 139.79999999999998,
+      "end": 140.79999999999998,
+      "text": " Listen to me completely."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 140.79999999999998,
+      "end": 141.79999999999998,
+      "text": " Don't listen to half."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 141.79999999999998,
+      "end": 142.79999999999998,
+      "text": " Indent in the opposite place."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 142.79999999999998,
+      "end": 144.79999999999998,
+      "text": " I am writing here, I wrote box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 144.79999999999998,
+      "end": 148.79999999999998,
+      "text": " And I am writing border 2px solid blue."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 148.79999999999998,
+      "end": 149.79999999999998,
+      "text": " Assume I have written."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 149.79999999999998,
+      "end": 151.79999999999998,
+      "text": " And you will write and document the format."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 151.79999999999998,
+      "end": 154.79999999999998,
+      "text": " So automatically your code will be beautified."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 154.79999999999998,
+      "end": 156.79999999999998,
+      "text": " By VS code."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 156.79999999999998,
+      "end": 158.79999999999998,
+      "text": " So your VS code is already working for you."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 158.79999999999998,
+      "end": 159.79999999999998,
+      "text": " So why do you do it?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 159.79999999999998,
+      "end": 160.79999999999998,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 160.79999999999998,
+      "end": 162.79999999999998,
+      "text": " So you guys see here the content is only I am a box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 162.79999999999998,
+      "end": 164.79999999999998,
+      "text": " But it took the full width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 165.0,
+      "end": 167.0,
+      "text": " I will also put a universal selector."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 167.0,
+      "end": 170.0,
+      "text": " And I will say that see the margin."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 170.0,
+      "end": 171.0,
+      "text": " Make it zero."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 171.0,
+      "end": 173.0,
+      "text": " And the padding."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 173.0,
+      "end": 174.0,
+      "text": " Make it zero."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 174.0,
+      "end": 175.0,
+      "text": " Thank you."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 175.0,
+      "end": 176.0,
+      "text": " And it will go up."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 176.0,
+      "end": 180.0,
+      "text": " And it has given a border around it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " Blue color which I requested from him."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " Give a 2px border of blue color."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 184.0,
+      "end": 188.0,
+      "text": " Now I want it to work like an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 188.0,
+      "end": 189.0,
+      "text": " Can I do it?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 189.0,
+      "end": 190.0,
+      "text": " Yes I can."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 190.0,
+      "end": 191.0,
+      "text": " How will I tell you now?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 191.0,
+      "end": 192.0,
+      "text": " Assume I have written a span here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 192.0,
+      "end": 193.0,
+      "text": " I am a good wrote."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 193.0,
+      "end": 194.0,
+      "text": " Then wrote another span."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 194.2,
+      "end": 196.2,
+      "text": " And then wrote boy."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 196.2,
+      "end": 200.2,
+      "text": " So span because it is an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 200.2,
+      "end": 201.2,
+      "text": " It is a block level element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 201.2,
+      "end": 202.2,
+      "text": " So what will happen?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 202.2,
+      "end": 204.2,
+      "text": " It will come in the same line."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 204.2,
+      "end": 205.2,
+      "text": " Something like this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 205.2,
+      "end": 206.2,
+      "text": " See I am a good boy."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 206.2,
+      "end": 207.2,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 207.2,
+      "end": 208.2,
+      "text": " It didn't break."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 208.2,
+      "end": 210.2,
+      "text": " But if I write another div after div."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 210.2,
+      "end": 213.2,
+      "text": " And also a nice box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 213.2,
+      "end": 214.2,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 214.2,
+      "end": 216.2,
+      "text": " So you see also a nice box came down."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 216.2,
+      "end": 217.2,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 217.2,
+      "end": 219.2,
+      "text": " It didn't come in the same line."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 219.2,
+      "end": 221.2,
+      "text": " It took the full width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 221.2,
+      "end": 223.2,
+      "text": " Now I want that this I am a box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 223.39999999999998,
+      "end": 225.39999999999998,
+      "text": " This becomes an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 225.39999999999998,
+      "end": 228.39999999999998,
+      "text": " So I can set its display property here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 228.39999999999998,
+      "end": 230.39999999999998,
+      "text": " I can say display inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 230.39999999999998,
+      "end": 232.39999999999998,
+      "text": " And as soon as I do display inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 232.39999999999998,
+      "end": 233.39999999999998,
+      "text": " You see here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 233.39999999999998,
+      "end": 234.39999999999998,
+      "text": " This has become an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 234.39999999999998,
+      "end": 237.39999999999998,
+      "text": " That is, if I put any other box after this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 237.39999999999998,
+      "end": 239.39999999999998,
+      "text": " Assume I give class is equal to box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 239.39999999999998,
+      "end": 240.39999999999998,
+      "text": " This too."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 240.39999999999998,
+      "end": 241.39999999999998,
+      "text": " So this will also become an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 241.39999999999998,
+      "end": 247.39999999999998,
+      "text": " Because I have set the display property in the class box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 247.39999999999998,
+      "end": 251.39999999999998,
+      "text": " Now because I have set it as an inline element."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 251.6,
+      "end": 253.6,
+      "text": " That's why it has become like this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 253.6,
+      "end": 255.6,
+      "text": " This inline element has become."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 255.6,
+      "end": 256.6,
+      "text": " And this was inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 256.6,
+      "end": 258.6,
+      "text": " So inline elements come side by side."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 258.6,
+      "end": 259.6,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 259.6,
+      "end": 260.6,
+      "text": " Let's do one thing."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 260.6,
+      "end": 262.6,
+      "text": " Let's give padding inside it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 262.6,
+      "end": 263.6,
+      "text": " It will be great fun."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 263.6,
+      "end": 264.6,
+      "text": " Let's give padding."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 264.6,
+      "end": 265.6,
+      "text": " It's going to be great fun."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 265.6,
+      "end": 266.6,
+      "text": " I will give padding."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 266.6,
+      "end": 267.6,
+      "text": " My box will be great fun."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 267.6,
+      "end": 268.6,
+      "text": " I will give padding."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 268.6,
+      "end": 269.6,
+      "text": " How much padding should I give?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 269.6,
+      "end": 271.6,
+      "text": " I will give padding inside it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 271.6,
+      "end": 272.6,
+      "text": " I will give."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 272.6,
+      "end": 273.6,
+      "text": " Which money is being spent on padding?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 273.6,
+      "end": 274.6,
+      "text": " I will give 45 pixels."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 274.6,
+      "end": 275.6,
+      "text": " Wow."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 275.6,
+      "end": 277.6,
+      "text": " Very good padding will be applied from all sides."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 277.6,
+      "end": 278.6,
+      "text": " It will be fun."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 278.6,
+      "end": 279.6,
+      "text": " What is this?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 279.6,
+      "end": 280.6,
+      "text": " Why didn't the padding come from the top?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 280.8,
+      "end": 282.8,
+      "text": " Why didn't the padding come from the top?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 282.8,
+      "end": 283.8,
+      "text": " Did I do something wrong?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 283.8,
+      "end": 284.8,
+      "text": " No, I didn't do anything wrong."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 284.8,
+      "end": 288.8,
+      "text": " Actually, the padding on the top does not respect."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 288.8,
+      "end": 290.8,
+      "text": " If your element is inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 290.8,
+      "end": 292.8,
+      "text": " So what will you have to do?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 292.8,
+      "end": 294.8,
+      "text": " If you add margin in it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 294.8,
+      "end": 296.8,
+      "text": " So it will behave in the same way."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 296.8,
+      "end": 298.8,
+      "text": " Let's say margin is 34 pixels."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 298.8,
+      "end": 300.8,
+      "text": " So the margin is applied from all sides."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 300.8,
+      "end": 301.8,
+      "text": " But it didn't come from the top."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 301.8,
+      "end": 302.8,
+      "text": " You can see."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 302.8,
+      "end": 303.8,
+      "text": " If you want this behavior to be fine."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 303.8,
+      "end": 305.8,
+      "text": " Then you can block it inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 305.8,
+      "end": 307.8,
+      "text": " As you can see here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 307.8,
+      "end": 309.8,
+      "text": " I have blocked it inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 310.0,
+      "end": 312.0,
+      "text": " If I remove the inline block."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 312.0,
+      "end": 314.0,
+      "text": " And try to set its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 314.0,
+      "end": 316.0,
+      "text": " Let's say I want to set its width to 344 pixels."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 316.0,
+      "end": 318.0,
+      "text": " It doesn't make any difference."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 318.0,
+      "end": 320.0,
+      "text": " I will increase its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 320.0,
+      "end": 322.0,
+      "text": " If I increase its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 322.0,
+      "end": 324.0,
+      "text": " There is no difference in increasing."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 324.0,
+      "end": 326.0,
+      "text": " And here Google Chrome is also telling me."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 326.0,
+      "end": 328.0,
+      "text": " Google Chrome is telling me."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 328.0,
+      "end": 332.0,
+      "text": " Display inline property prevents width from having an effect."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 332.0,
+      "end": 334.0,
+      "text": " So you can't do this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 334.0,
+      "end": 336.0,
+      "text": " Google Chrome is saying."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 336.0,
+      "end": 337.0,
+      "text": " Now I will say."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 337.0,
+      "end": 338.0,
+      "text": " I have to set its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 338.2,
+      "end": 340.2,
+      "text": " I have promised Google Chrome."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 340.2,
+      "end": 342.2,
+      "text": " That I will increase its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 342.2,
+      "end": 344.2,
+      "text": " So you have to use the inline block property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 344.2,
+      "end": 346.2,
+      "text": " If you want."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 346.2,
+      "end": 348.2,
+      "text": " That your width and margins are perfectly obeyed."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 348.2,
+      "end": 350.2,
+      "text": " Then you have to do something like this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 350.2,
+      "end": 352.2,
+      "text": " Okay."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 352.2,
+      "end": 354.2,
+      "text": " You can see here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 354.2,
+      "end": 356.2,
+      "text": " I have set its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 356.2,
+      "end": 358.2,
+      "text": " You can see here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 358.2,
+      "end": 360.2,
+      "text": " The box is taking its width."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 360.2,
+      "end": 362.2,
+      "text": " And the padding is also set very well."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 362.2,
+      "end": 364.2,
+      "text": " I have also given it a border."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 364.2,
+      "end": 366.2,
+      "text": " So everything is done."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 366.4,
+      "end": 368.4,
+      "text": " So inline block property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 368.4,
+      "end": 370.4,
+      "text": " Is useful for you."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 370.4,
+      "end": 372.4,
+      "text": " Now I will tell you."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 372.4,
+      "end": 374.4,
+      "text": " About display none and display block."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 374.4,
+      "end": 376.4,
+      "text": " If you agree."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 376.4,
+      "end": 378.4,
+      "text": " I will do one more thing for this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 378.4,
+      "end": 380.4,
+      "text": " I will go to my settings."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 380.4,
+      "end": 382.4,
+      "text": " And you will say."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 382.4,
+      "end": 384.4,
+      "text": " I will show you what I am doing."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 384.4,
+      "end": 386.4,
+      "text": " I will go to settings."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 386.4,
+      "end": 388.4,
+      "text": " And I have made my face disappear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 388.4,
+      "end": 390.4,
+      "text": " So that you don't have any problem."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 390.4,
+      "end": 392.4,
+      "text": " And I will do live preview."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 392.4,
+      "end": 394.4,
+      "text": " This is my setting."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 394.59999999999997,
+      "end": 396.59999999999997,
+      "text": " And I will do embedded preview."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 396.59999999999997,
+      "end": 398.59999999999997,
+      "text": " And after doing embedded preview."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 398.59999999999997,
+      "end": 400.59999999999997,
+      "text": " I will preview it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 400.59999999999997,
+      "end": 402.59999999999997,
+      "text": " And you can see the preview here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 402.59999999999997,
+      "end": 404.59999999999997,
+      "text": " Why did I do this?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 404.59999999999997,
+      "end": 406.59999999999997,
+      "text": " I want to tell you some properties."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 406.59999999999997,
+      "end": 408.59999999999997,
+      "text": " If I don't block the inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 408.59999999999997,
+      "end": 410.59999999999997,
+      "text": " And I make the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 410.59999999999997,
+      "end": 412.59999999999997,
+      "text": " If I make the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 412.59999999999997,
+      "end": 414.59999999999997,
+      "text": " Then it will disappear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 414.59999999999997,
+      "end": 416.59999999999997,
+      "text": " And I do one thing."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 416.59999999999997,
+      "end": 418.59999999999997,
+      "text": " This box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 418.59999999999997,
+      "end": 420.59999999999997,
+      "text": " I will add one more class."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 420.59999999999997,
+      "end": 422.59999999999997,
+      "text": " Box1"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 422.8,
+      "end": 424.8,
+      "text": " And after adding box1."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 424.8,
+      "end": 426.8,
+      "text": " I will do."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 426.8,
+      "end": 428.8,
+      "text": " I will do."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 428.8,
+      "end": 430.8,
+      "text": " .box1"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 430.8,
+      "end": 432.8,
+      "text": " And I will make the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 432.8,
+      "end": 434.8,
+      "text": " As I made the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 434.8,
+      "end": 436.8,
+      "text": " It made the space and the box disappear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 436.8,
+      "end": 438.8,
+      "text": " And if I remove it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 438.8,
+      "end": 440.8,
+      "text": " Then what will happen?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 440.8,
+      "end": 442.8,
+      "text": " IMO box will appear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 442.8,
+      "end": 444.8,
+      "text": " So I made the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 444.8,
+      "end": 446.8,
+      "text": " And as I make the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 446.8,
+      "end": 448.8,
+      "text": " The space that was giving the box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 448.8,
+      "end": 450.8,
+      "text": " Will also disappear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 451.0,
+      "end": 453.0,
+      "text": " But there is a visibility property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 453.0,
+      "end": 455.0,
+      "text": " If I make the visibility hidden."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 455.0,
+      "end": 457.0,
+      "text": " Then the box will disappear."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 457.0,
+      "end": 459.0,
+      "text": " But the space will remain."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 459.0,
+      "end": 461.0,
+      "text": " So you use the visibility hidden."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 461.0,
+      "end": 463.0,
+      "text": " When you want the space to remain."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 463.0,
+      "end": 465.0,
+      "text": " And as you put it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 465.0,
+      "end": 467.0,
+      "text": " And remove it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 467.0,
+      "end": 469.0,
+      "text": " The space will remain intact."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 469.0,
+      "end": 471.0,
+      "text": " But if you put the display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 471.0,
+      "end": 473.0,
+      "text": " Then the space that was taking will also go."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 473.0,
+      "end": 475.0,
+      "text": " So this display none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 475.0,
+      "end": 477.0,
+      "text": " Is used here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 477.0,
+      "end": 479.0,
+      "text": " I hope you understood something."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 479.2,
+      "end": 481.2,
+      "text": " If you want to set the display."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 481.2,
+      "end": 483.2,
+      "text": " Then you can set the inline blocks."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 483.2,
+      "end": 485.2,
+      "text": " In flexbox and grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 485.2,
+      "end": 487.2,
+      "text": " We will learn what is display flex."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 487.2,
+      "end": 489.2,
+      "text": " And what is display grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 489.2,
+      "end": 491.2,
+      "text": " But I want to show you a great example."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 491.2,
+      "end": 493.2,
+      "text": " I want to show you a great example."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 493.2,
+      "end": 495.2,
+      "text": " I want to show you a great example."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 495.2,
+      "end": 497.2,
+      "text": " In flexbox."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 497.2,
+      "end": 499.2,
+      "text": " You can make anything flexbox."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 499.2,
+      "end": 501.2,
+      "text": " And I will say 70 to 80 percent of the time."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 501.2,
+      "end": 503.2,
+      "text": " You will be using flexbox to center things."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 503.2,
+      "end": 505.2,
+      "text": " Or you will be using it to scratch."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 505.2,
+      "end": 507.2,
+      "text": " So here you will see."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 507.4,
+      "end": 509.4,
+      "text": " Here is a box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 509.4,
+      "end": 511.4,
+      "text": " I want to center this box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 511.4,
+      "end": 513.4,
+      "text": " Here is a box."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 513.4,
+      "end": 515.4,
+      "text": " Display flex."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 515.4,
+      "end": 517.4,
+      "text": " Justify content center."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 517.4,
+      "end": 519.4,
+      "text": " You will see it is centered."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 519.4,
+      "end": 521.4,
+      "text": " But I will tell you flex in the coming videos."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 521.4,
+      "end": 523.4,
+      "text": " Don't take tension."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 523.4,
+      "end": 525.4,
+      "text": " Don't take tension."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 525.4,
+      "end": 527.4,
+      "text": " So I hope you understood."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 527.4,
+      "end": 529.4,
+      "text": " So I hope you understood."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 529.4,
+      "end": 531.4,
+      "text": " And after this."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 531.4,
+      "end": 533.4,
+      "text": " Inline flex."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 533.4,
+      "end": 535.4,
+      "text": " Inline flex."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 535.6,
+      "end": 537.6,
+      "text": " So I was flexing."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 537.6,
+      "end": 539.6,
+      "text": " So I dropped everything."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 539.6,
+      "end": 541.6,
+      "text": " But inline flex will not drop anything."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 541.6,
+      "end": 543.6,
+      "text": " I will tell you flex."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 543.6,
+      "end": 545.6,
+      "text": " Don't take tension."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 545.6,
+      "end": 547.6,
+      "text": " After this there is a display grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 547.6,
+      "end": 549.6,
+      "text": " After this there is a display grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 549.6,
+      "end": 551.6,
+      "text": " When you flex inline."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 551.6,
+      "end": 553.6,
+      "text": " You can change flex direction."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 553.6,
+      "end": 555.6,
+      "text": " Then you can flex wrap."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 555.6,
+      "end": 557.6,
+      "text": " I will tell you all these things in the coming videos."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 557.6,
+      "end": 559.6,
+      "text": " Don't take tension."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 559.6,
+      "end": 561.6,
+      "text": " If I grade the display."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 561.6,
+      "end": 563.6,
+      "text": " It will tell you about the properties of the grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 563.8000000000001,
+      "end": 565.8000000000001,
+      "text": " I will tell you about the grid in the coming videos."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 565.8000000000001,
+      "end": 567.8000000000001,
+      "text": " For now, you understand that the grid is a display property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 567.8000000000001,
+      "end": 569.8000000000001,
+      "text": " For now, you understand that the grid is a display property."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 569.8000000000001,
+      "end": 571.8000000000001,
+      "text": " We can do display grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 571.8000000000001,
+      "end": 573.8000000000001,
+      "text": " We can do inline grid."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 573.8000000000001,
+      "end": 575.8000000000001,
+      "text": " I have curated the link of MDN."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 575.8000000000001,
+      "end": 577.8000000000001,
+      "text": " I have curated the link of MDN."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 577.8000000000001,
+      "end": 579.8000000000001,
+      "text": " In which you will see all the properties."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 579.8000000000001,
+      "end": 581.8000000000001,
+      "text": " In which you will see all the properties."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 581.8000000000001,
+      "end": 583.8000000000001,
+      "text": " They told that this is an inline block."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 583.8000000000001,
+      "end": 585.8000000000001,
+      "text": " Display is gone from none."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 585.8000000000001,
+      "end": 587.8000000000001,
+      "text": " Display flex is gone."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 587.8000000000001,
+      "end": 589.8000000000001,
+      "text": " Display grid is gone."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 589.8000000000001,
+      "end": 591.8000000000001,
+      "text": " I am telling you that these are all the properties."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 592.0,
+      "end": 594.0,
+      "text": " You can use them in your project."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 594.0,
+      "end": 596.0,
+      "text": " The most used website is."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 596.0,
+      "end": 598.0,
+      "text": " 99% of the websites."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 598.0,
+      "end": 600.0,
+      "text": " You can make a website from this website."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 600.0,
+      "end": 602.0,
+      "text": " I am giving the link."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 602.0,
+      "end": 604.0,
+      "text": " I am giving the link."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 604.0,
+      "end": 606.0,
+      "text": " I am giving the link."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 606.0,
+      "end": 608.0,
+      "text": " I am giving the link."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 608.0,
+      "end": 610.0,
+      "text": " If you want to know about other displays."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 610.0,
+      "end": 612.0,
+      "text": " You can find it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 612.0,
+      "end": 614.0,
+      "text": " We are going to learn that matters."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 614.0,
+      "end": 616.0,
+      "text": " We are going to learn that matters."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 616.0,
+      "end": 618.0,
+      "text": " We are going to learn that matters."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 618.0,
+      "end": 620.0,
+      "text": " If you learn about exhaustive list."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 620.0,
+      "end": 623.32,
+      "text": " Our time is limited, we have to learn things in a short time."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 623.32,
+      "end": 624.68,
+      "text": " I hope you understood."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 624.68,
+      "end": 627.32,
+      "text": " If you haven't accessed the playlist, then access it."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 627.32,
+      "end": 629.56,
+      "text": " Access it quickly, either by clicking on the bookmark"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 629.56,
+      "end": 631.0,
+      "text": " or by clicking on save."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 631.0,
+      "end": 633.28,
+      "text": " And I would like to request you"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 633.28,
+      "end": 635.48,
+      "text": " that if you have watched the videos till here,"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 635.48,
+      "end": 637.16,
+      "text": " then go to the first video"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 637.16,
+      "end": 638.44,
+      "text": " and please give me a review."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 638.44,
+      "end": 640.52,
+      "text": " Give me a review of a course so that those people"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 640.52,
+      "end": 642.44,
+      "text": " who are underestimating this free course,"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 642.44,
+      "end": 643.96,
+      "text": " I have received a lot of comments that"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 643.96,
+      "end": 645.44,
+      "text": " your course is free."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 645.44,
+      "end": 647.56,
+      "text": " So will it compete with the paid course?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 647.56,
+      "end": 648.68,
+      "text": " Will it be so good?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 648.68,
+      "end": 651.92,
+      "text": " I want to tell you that I had thought of keeping this course"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 651.92,
+      "end": 653.2399999999999,
+      "text": " as a paid course earlier."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 653.2399999999999,
+      "end": 655.04,
+      "text": " But I made it free later."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 655.04,
+      "end": 656.8,
+      "text": " Like many people would know."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 656.8,
+      "end": 658.9599999999999,
+      "text": " I want you to tell in the first video."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 658.9599999999999,
+      "end": 662.4399999999999,
+      "text": " Not based on what I am saying"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 662.4399999999999,
+      "end": 664.68,
+      "text": " and you don't influence yourself with anything."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 664.68,
+      "end": 665.8,
+      "text": " Based on your learnings,"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 665.8,
+      "end": 668.0799999999999,
+      "text": " you can comment here in the first video"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 668.0799999999999,
+      "end": 670.88,
+      "text": " that did this course help you?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 670.88,
+      "end": 673.76,
+      "text": " Did this course make you a better developer?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 673.76,
+      "end": 675.4399999999999,
+      "text": " And as you have learned,"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 675.4399999999999,
+      "end": 676.92,
+      "text": " I hope you have come to know that"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 676.92,
+      "end": 678.1999999999999,
+      "text": " after the upcoming videos,"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 678.1999999999999,
+      "end": 680.12,
+      "text": " what kind of developer you will become."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 680.12,
+      "end": 682.4399999999999,
+      "text": " So I want you to give me a 5 out of 5 stars"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 682.4399999999999,
+      "end": 684.4399999999999,
+      "text": " for those people in the first video."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 684.4399999999999,
+      "end": 686.8399999999999,
+      "text": " That I will give 5 out of 5 stars to this course."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 686.8399999999999,
+      "end": 688.1999999999999,
+      "text": " What kind of course is this?"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 688.1999999999999,
+      "end": 689.8399999999999,
+      "text": " You must definitely write here."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 689.8399999999999,
+      "end": 690.92,
+      "text": " I will like it from the bottom of my heart"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 690.92,
+      "end": 693.0799999999999,
+      "text": " and a good comment from you will make my day."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 693.0799999999999,
+      "end": 696.04,
+      "text": " I hope you are liking these videos"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 696.04,
+      "end": 697.8,
+      "text": " and the source code and all these things."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 697.8,
+      "end": 699.56,
+      "text": " I also gave you the link of cheat sheets."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 699.56,
+      "end": 701.0,
+      "text": " You have accessed all of them."
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 701.0,
+      "end": 703.16,
+      "text": " Thank you so much guys for watching this video"
+    },
+    {
+      "number": "2",
+      "title": "CSS-Display-Property-Sigma-Web-Development-Course",
+      "start": 703.16,
+      "end": 705.64,
+      "text": " and I will see you next time."
+    }
+  ],
+  "text": " If you remember, we saw in HTML that there are some inline elements and some block elements. There we talked that we can change this property. In today's video, I will tell you how to change the display property with the help of CSS. And what is the display property in CSS? There are some default values of the elements, how to change them? And what kind of changes we will get to see in their appearance by changing? What is inline, what is inline block, what is flex? I am going to tell you all these things in this video. Let's go to the computer screen. Do write sigma batch op in the comment. Let's roll the intro. So guys, I have come to my computer screen and today we will talk about the display property. It is a very important property. I had already told you in the tutorial of HTML that there are some inline elements and some block elements. Now I will tell you some more things here. There will be some openings in this video about inline and block property. And you guys think about anything else. Now what I will do here is quickly make a folder. I will put it in the name of video 23. And after video 23, I will click on the shift right and open with code. And after opening with code, index.html, by putting your exclamation mark. And here I will write in place of document. CSS display property. And if you say, I will also turn on the screencast mode here. So here we have to see about the display property of CSS. I will make a style tag here. And as I told you guys already. That there are some elements that are our inline elements. Like if I make a div here, I write I am a box. And after that I will preview it and show it to you. So you will say, yes, I know, I am a box display will be done. Nothing new in that. But if I tell you guys. That actually you can convert it into an inline element. And this div will also be there. What does that even mean? Let's do one thing here. I do class=\"box\". And here I put a CSS. .box Now I give you a pro tip here. Many people are worried that we should indent our code. I will say when you are coding, then write it completely rough. Indent in the opposite place. Listen to me completely. Don't listen to half. Indent in the opposite place. I am writing here, I wrote box. And I am writing border 2px solid blue. Assume I have written. And you will write and document the format. So automatically your code will be beautified. By VS code. So your VS code is already working for you. So why do you do it? Okay. So you guys see here the content is only I am a box. But it took the full width. I will also put a universal selector. And I will say that see the margin. Make it zero. And the padding. Make it zero. Thank you. And it will go up. And it has given a border around it. Blue color which I requested from him. Give a 2px border of blue color. Now I want it to work like an inline element. Can I do it? Yes I can. How will I tell you now? Assume I have written a span here. I am a good wrote. Then wrote another span. And then wrote boy. So span because it is an inline element. It is a block level element. So what will happen? It will come in the same line. Something like this. See I am a good boy. Okay. It didn't break. But if I write another div after div. And also a nice box. Okay. So you see also a nice box came down. Okay. It didn't come in the same line. It took the full width. Now I want that this I am a box. This becomes an inline element. So I can set its display property here. I can say display inline. And as soon as I do display inline. You see here. This has become an inline element. That is, if I put any other box after this. Assume I give class is equal to box. This too. So this will also become an inline element. Because I have set the display property in the class box. Now because I have set it as an inline element. That's why it has become like this. This inline element has become. And this was inline. So inline elements come side by side. Okay. Let's do one thing. Let's give padding inside it. It will be great fun. Let's give padding. It's going to be great fun. I will give padding. My box will be great fun. I will give padding. How much padding should I give? I will give padding inside it. I will give. Which money is being spent on padding? I will give 45 pixels. Wow. Very good padding will be applied from all sides. It will be fun. What is this? Why didn't the padding come from the top? Why didn't the padding come from the top? Did I do something wrong? No, I didn't do anything wrong. Actually, the padding on the top does not respect. If your element is inline. So what will you have to do? If you add margin in it. So it will behave in the same way. Let's say margin is 34 pixels. So the margin is applied from all sides. But it didn't come from the top. You can see. If you want this behavior to be fine. Then you can block it inline. As you can see here. I have blocked it inline. If I remove the inline block. And try to set its width. Let's say I want to set its width to 344 pixels. It doesn't make any difference. I will increase its width. If I increase its width. There is no difference in increasing. And here Google Chrome is also telling me. Google Chrome is telling me. Display inline property prevents width from having an effect. So you can't do this. Google Chrome is saying. Now I will say. I have to set its width. I have promised Google Chrome. That I will increase its width. So you have to use the inline block property. If you want. That your width and margins are perfectly obeyed. Then you have to do something like this. Okay. You can see here. I have set its width. You can see here. The box is taking its width. And the padding is also set very well. I have also given it a border. So everything is done. So inline block property. Is useful for you. Now I will tell you. About display none and display block. If you agree. I will do one more thing for this. I will go to my settings. And you will say. I will show you what I am doing. I will go to settings. And I have made my face disappear. So that you don't have any problem. And I will do live preview. This is my setting. And I will do embedded preview. And after doing embedded preview. I will preview it. And you can see the preview here. Why did I do this? I want to tell you some properties. If I don't block the inline. And I make the display none. If I make the display none. Then it will disappear. And I do one thing. This box. I will add one more class. Box1 And after adding box1. I will do. I will do. .box1 And I will make the display none. As I made the display none. It made the space and the box disappear. And if I remove it. Then what will happen? IMO box will appear. So I made the display none. And as I make the display none. The space that was giving the box. Will also disappear. But there is a visibility property. If I make the visibility hidden. Then the box will disappear. But the space will remain. So you use the visibility hidden. When you want the space to remain. And as you put it. And remove it. The space will remain intact. But if you put the display none. Then the space that was taking will also go. So this display none. Is used here. I hope you understood something. If you want to set the display. Then you can set the inline blocks. In flexbox and grid. We will learn what is display flex. And what is display grid. But I want to show you a great example. I want to show you a great example. I want to show you a great example. In flexbox. You can make anything flexbox. And I will say 70 to 80 percent of the time. You will be using flexbox to center things. Or you will be using it to scratch. So here you will see. Here is a box. I want to center this box. Here is a box. Display flex. Justify content center. You will see it is centered. But I will tell you flex in the coming videos. Don't take tension. Don't take tension. So I hope you understood. So I hope you understood. And after this. Inline flex. Inline flex. So I was flexing. So I dropped everything. But inline flex will not drop anything. I will tell you flex. Don't take tension. After this there is a display grid. After this there is a display grid. When you flex inline. You can change flex direction. Then you can flex wrap. I will tell you all these things in the coming videos. Don't take tension. If I grade the display. It will tell you about the properties of the grid. I will tell you about the grid in the coming videos. For now, you understand that the grid is a display property. For now, you understand that the grid is a display property. We can do display grid. We can do inline grid. I have curated the link of MDN. I have curated the link of MDN. In which you will see all the properties. In which you will see all the properties. They told that this is an inline block. Display is gone from none. Display flex is gone. Display grid is gone. I am telling you that these are all the properties. You can use them in your project. The most used website is. 99% of the websites. You can make a website from this website. I am giving the link. I am giving the link. I am giving the link. I am giving the link. If you want to know about other displays. You can find it. We are going to learn that matters. We are going to learn that matters. We are going to learn that matters. If you learn about exhaustive list. Our time is limited, we have to learn things in a short time. I hope you understood. If you haven't accessed the playlist, then access it. Access it quickly, either by clicking on the bookmark or by clicking on save. And I would like to request you that if you have watched the videos till here, then go to the first video and please give me a review. Give me a review of a course so that those people who are underestimating this free course, I have received a lot of comments that your course is free. So will it compete with the paid course? Will it be so good? I want to tell you that I had thought of keeping this course as a paid course earlier. But I made it free later. Like many people would know. I want you to tell in the first video. Not based on what I am saying and you don't influence yourself with anything. Based on your learnings, you can comment here in the first video that did this course help you? Did this course make you a better developer? And as you have learned, I hope you have come to know that after the upcoming videos, what kind of developer you will become. So I want you to give me a 5 out of 5 stars for those people in the first video. That I will give 5 out of 5 stars to this course. What kind of course is this? You must definitely write here. I will like it from the bottom of my heart and a good comment from you will make my day. I hope you are liking these videos and the source code and all these things. I also gave you the link of cheat sheets. You have accessed all of them. Thank you so much guys for watching this video and I will see you next time."
+}

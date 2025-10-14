@@ -1,0 +1,9 @@
+What's up? I'd be happy to help you out.
+
+So, you're curious about "what is after video 23" in our CSS-Display-Property course?
+
+Well, let me check... Ah yes! In video 24 of our CSS-Display-Property course (which starts at timestamp 676.92), we'll be diving into the world of embedded previews!
+
+You can find it by going to the Sigma Web Development Course playlist and clicking on the "CSS-Display-Property-Sigma-Web-Development-Course" video number 2, then finding the timestamp 676.92.
+
+If you want to learn more about how this works in practice, you might also want to check out some of the other videos in the series, like video 3 (CSS-Media-Queries-Sigma-Web-Development-Course) where we discuss media queries behind the hood!
