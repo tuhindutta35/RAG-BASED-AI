@@ -1,9 +1,7 @@
-What's up? I'd be happy to help you out.
+You're looking for information on where CSS media queries are taught in our Sigma web development course.
 
-So, you're curious about "what is after video 23" in our CSS-Display-Property course?
+CSS media queries are actually covered in Video 3 of our course. Specifically, they start being discussed at around the 63-second mark (0:01:03) and continue through to about the 540-second mark (0:09:00).
 
-Well, let me check... Ah yes! In video 24 of our CSS-Display-Property course (which starts at timestamp 676.92), we'll be diving into the world of embedded previews!
+In this video, we dive into what media queries are, how to use them, and their importance in creating responsive web designs. The instructor also shares examples of when to use media queries and provides guidance on how to write effective media query rules.
 
-You can find it by going to the Sigma Web Development Course playlist and clicking on the "CSS-Display-Property-Sigma-Web-Development-Course" video number 2, then finding the timestamp 676.92.
-
-If you want to learn more about how this works in practice, you might also want to check out some of the other videos in the series, like video 3 (CSS-Media-Queries-Sigma-Web-Development-Course) where we discuss media queries behind the hood!
+If you're interested in learning more about CSS media queries, I'd recommend checking out Video 3 of our course. You can find it by navigating to the Sigma web development course playlist and clicking on "CSS-Media-Queries-Sigma-Web-Development-Course" (Video 3).

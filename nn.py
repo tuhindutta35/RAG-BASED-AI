@@ -8,8 +8,6 @@ import joblib
 
 
 
-
-
 def create_embedding(text_list):
     # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
     r = requests.post("http://localhost:11434/api/embed", json={
@@ -31,8 +29,6 @@ def inference(prompt):
     response = r.json()
     print(response)
     return response
-
-
 
 
 
@@ -74,11 +70,8 @@ User asked this question related to the video chunks, you have to answer in a hu
 with open("prompt.txt", "w") as f:
     f.write(prompt)
 
-# response=inference(prompt)["response"]
-# print(response) 
-# 
 response=inference(prompt)["response"]
-print(response) 
+print(response)    
 
 with open("response.txt", "w") as f:
     f.write(response)
